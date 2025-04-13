@@ -18,6 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/Sameer-Murtaja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sameer-Murtaja" height="30" width="40" /></a>
+<a href="mailto:SameerMMurtaja@gmail.com"><img align="center" src="https://camo.githubusercontent.com/08eae310fc9b9b569d5dbea3506751ca0b9a6038f5280f01550e8fa7a7ce68b2/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f676d61696c2e706e67" alt="SameerMMurtaja@gmail.com" height="30" width="40" style="max-width: 100;">
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
